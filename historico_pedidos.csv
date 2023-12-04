@@ -1,0 +1,21 @@
+﻿Número do Pedido,Data,Itens,Quantidade,Preço Unitário,Total,Status
+1001,22/11/2023,Tênis Esportivo,1,"R$ 200,00","R$ 200,00",Enviado
+1002,23/11/2023,Camiseta Básica,2,"R$ 50,00","R$ 100,00",Processando
+1003,24/11/2023,Calça Jeans,1,"R$ 120,00","R$ 120,00",Enviado
+1004,25/11/2023,Mochila de Viagem,1,"R$ 180,00","R$ 180,00",Entregue
+1005,26/11/2023,Relógio Digital,1,"R$ 300,00","R$ 300,00",Cancelado
+1006,27/11/2023,Óculos de Sol,1,"R$ 150,00","R$ 150,00",Enviado
+1007,28/11/2023,Perfume Importado,1,"R$ 250,00","R$ 250,00",Processando
+1008,29/11/2023,Fone de Ouvido Bluetooth,1,"R$ 220,00","R$ 220,00",Enviado
+1009,30/11/2023,Smartwatch,1,"R$ 400,00","R$ 400,00",Entregue
+1010,01/12/2023,Jaqueta de Couro,1,"R$ 500,00","R$ 500,00",Cancelado
+1011,02/12/2023,"Livro ""A Arte da Guerra""",1,"R$ 40,00","R$ 40,00",Enviado
+1012,03/12/2023,Tablet 10 Polegadas,1,"R$ 800,00","R$ 800,00",Entregue
+1013,04/12/2023,Conjunto de Canetas,1,"R$ 15,00","R$ 15,00",Processando
+1014,05/12/2023,Câmera Fotográfica Profissional,1,"R$ 1500,00","R$ 1500,00",Enviado
+1015,06/12/2023,Kit de Maquiagem,1,"R$ 120,00","R$ 120,00",Cancelado
+1016,07/12/2023,Teclado Mecânico,1,"R$ 250,00","R$ 250,00",Enviado
+1017,08/12/2023,Mouse Gamer,1,"R$ 150,00","R$ 150,00",Processando
+1018,09/12/2023,Sapatilhas de Ballet,1,"R$ 80,00","R$ 80,00",Entregue
+1019,10/12/2023,Chapéu Fedora,1,"R$ 90,00","R$ 90,00",Cancelado
+1020,11/12/2023,Bicicleta Mountain Bike,1,"R$ 1200,00","R$ 1200,00",Enviado
